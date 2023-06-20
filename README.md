@@ -3,7 +3,8 @@
 ## Requirements
 - MacOS: 10.15+
 - XСode: 9.3+
-- Generated certificate and private key in *.pem format
+- Generated trusted(placed in the keychain) certificate and private key 
+in *.pem format
 - Certificate and key must be placed in the "MITM-Proxy/cert/" path
 - boost: version 1.74.0
 - openssl: version 1.1.1k
